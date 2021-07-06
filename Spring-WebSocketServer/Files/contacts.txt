@@ -1,0 +1,357 @@
+1 Porta i tuoi amici 4080 
+2 Risponderie Musicall 48001 
+3 Info SMS e MMS 899951111 
+4 ChaTribu' 48002 
+5 Ascolta SegrTel 4200 
+6 Ricarica 4242 
+7 English SMS 899951109 
+8 TrovaNumeri 892125 
+9 Credito residuo *123# 
+10 English SMS 899951109 
+11 TrovaNumeri 892125 
+12 Credito residuo *123# 
+13 Porta i tuoi amici 4080 
+14 Risponderie Musicall 48001 
+15 Info SMS e MMS 899951111 
+16 ChaTribu' 48002 
+17 Ascolta SegrTel 4200 
+18 Ricarica 4242 
+19 Marco Bettiol +393207104447 
+20 Alessio D'andrea +393249009911 
+21 Gatto MATTIA +393421904855 
+22 Ingenito Alessandro +393466902588 
+23 Jodi Storgato +393463595468 
+24 Gisy +393280387931 
+25 Alessandro Minato +393426687504 
+26 Filippo Gusso +393806963215 
+27 Malacco Lorenzo +393492386757 
+28 Elisa Michieletto +393278288342 
+29 Chiara Tosatto 3668145791 
+30 Luca Pennino +393801976845 
+31 Luca Pozzebon +393338788064 
+32 Brian +393884495094 
+33 Colla Matteo +393331714145 
+34 Guolo Mattia +393249042699 
+35 Nicolo Basso +393249097565 
+36 Matteo Guizzon +393349622658 
+37 Enrico Florian +393490800726 
+38 Fitim +39 329 118 7141 
+39 Gobbo Riccardo +393487800108 
+40 Giacomo +393462457975 
+41 Leonardo Cavallin +393388853654 
+42 Alessandro Carniato +393479084458 
+43 Alberto Storgato +393421830462 
+44 Eros +393451511676 
+45 Luca Seganfreddo +393407056537 
+46 Davide Cusano +39 345 824 5777 
+47 Chen 338 537 2772 
+48 Anas +393472879261 
+49 Granzotto Marc +393249006431 
+50 Luigi +393471953794 
+51 Mamma +393492257515 
+52 Federica Sarto +393669642289 
+53 Caterina Gaspa +393475198452 
+54 Elena +393801968718 
+55 Shao +393898451119 
+56 Basso Ale +393395418804 
+57 Fra Carniel +393246223054 
+58 Berty +393914037131 
+59 Zhao +393426848845 
+60 Niccolo Fabrin +393427404958 
+61 Thomas +393339618363 
+62 Elias Ascbouni +39 320 710 4513 
+63 Gas (Luca) +39 333 912 1679 
+64 Cesare Caorle +393452534994 
+66 Edoardo Battiston +393425141581 
+67 Andrea Zanet +393409715819 
+68 Metteo Caorle +393711492292 
+69 Davide Volpato +393345224256 
+70 Andrea Carniato +393347800321 
+71 Isabella +393927436235 
+72 Nicolò Valle +393473619923 
+73 Il Solo Elideath +39 328 445 9327 
+74 Hao Wu 3778803110 
+75 Schiavon Matti +393406325633 
+76 Durigon +393247955005 
+77 Kevin Cimo +393474957212 
+78 Marco De Zen +393420620369 
+79 Leonardo Rossi +393899018718 
+80 Gianluca Semen +393404228265 
+81 Samuele Dido +393466251701 
+82 Claudia Basso +393492994988 
+83 Mister Vincenz +393289165461 
+84 Antonio Loiaco +393895350516 
+85 Piovesan +393248160537 
+86 Lorenzo Benett +393315448217 
+87 Papa +393487041102 
+88 Nico Vwrs +393453207343 
+89 Boh +393403358108 
+90 Monico +393249029991 
+93 +393289444666 +393289444666 
+94 +393887889576 +393887889576 
+95 +393493048207 +393493048207 
+96 Infoinviaggio 892525 
+97 Karine 3470351614 
+98 Gallina Alessi +393338868247 
+99 Simeoni +393338824227 
+100 Sartor Matteo +393453430351 
+101 Fuser +393931757234 
+102 Nicholas Braga +393423959133 
+103 Elia Mellere +393317161194 
+104 Paolo Sartor +393463776086 
+105 Favero Thomas 3896245148 
+106 Azaza 3661007625 
+107 Ionut 3898483637 
+108 Ceccaci Marco 3406848674 
+109 Sabadotto 3334728543 
+110 Spadetto Filippo 3382934025 
+111 Simone Dottori +393452275053 
+112 Manuel Calcio +393401141504 
+113 Scola +393482405484 
+114 MilleunaTIM 40848 
+115 OpzioneExpress 40888 
+116 Attiva Servizi 40920 
+117 Cerca per Me 40884 
+118 Carlotta Rigoni 393 956 7726 
+119 Matteo (Lux) +39335491734 
+120 Lorenzo Jungle +393347463154 
+121 Bonesso Giacom +393338834329 
+122 Elia Toffolo +393201870171 
+123 Leo Ori +393294146437 
+124 Fabio Vwrs +393333435550 
+125 Matteo Vwrs +393920200457 
+126 i.box 41901 
+127 Leo Loiacono +393294490412 
+128 Piero Vwrs +393392021384 
+129 Cristian Bac +393881569152 
+130 TIM Taxi 42494 
+131 Giorgia Giusto 3499802021 
+132 Antonio Nocs +39 345 931 3112 
+133 Facchin Lorenzo 335 664 7618 
+134 Alessandro Vagretti +393407351426 
+135 Mattia Franzoli +393802603766 
+136 Leonardo Franceschini +393477179143 
+137 Federico Pallavolo +393490853688 
+138 Alessandro Pallavolo +393664582742 
+139 Leonardo Bruni +393389909371 
+140 Filippo Pallavolo 348 927 7898 
+141 Enrico Lorenzon +393426831724 
+142 Matteo Lanzi +39 345 406 4237 
+143 Filippo Allenatore +393484233472 
+144 facchin Lorenzo +393356641618 
+145 Matteo +393889748927 
+146 Matteo Pallavolo +393406535939 
+147 Seconda Allenatrice Eli +393479030529 
+148 Boh222 +39 345 469 3153 
+149 Alessandro Pallavolo +393482405920 
+150 Bijin Winoj +39 380 891 7451 
+151 Rigato +393392441164 
+152 Alessio Pallavolo +393890135422 
+153 Alex Bulgarov +393890135422 
+154 Simone Bacchion 3381410497 
+156 Giovanni Pallavolo +393407567571 
+157 Giovanni Piccolo Pallavolo +393333776588 
+158 Ceccato Giovanni 3899012479 
+159 Antonio Pallavolo +393470636687 
+160 Isaia +393883073060 
+161 Francesco Pallavolo +393407900864 
+162 Davide Calabretto +393203274556 
+163 Manuel Bonvino +393451001777 
+164 Silvia 2^ Allenatrice +393495188213 
+165 Jury Giusto +447947738277 
+166 Giada Cugina +393453567778 
+167 Flavia Zia +393491706309 
+168 Matteo Pratillo +393808639716 
+169 Boh +39 329 043 2277 
+170 Boooooh +39 329 043 2277 
+171 Valentina Berto +393456008682 
+172 Antonio Pallavolo (Giusto) +393929567299 
+173 Bressan Anna Peer Education +393336991965 
+174 Riccardo Nj 2001 +393457825574 
+175 Qualcuno Degli nj +393929747122 
+176 Michele Vanin Fisioterapista +393493811096 
+177 Enrico Ballon (Fisioterapista) +393472564868 
+178 Chiara Sartor +393314318222 
+179 Enrico 2 Nj +393911457718 
+180 Samu Iraku +393931246797 
+181 Dege +393457913994 
+182 Enrico Nj +447391443011 
+183 Alessandro Chiara 3463878119 
+184 Alessia Pallavolo Under16 +393420682054 
+185 Filippo Banda Nuovo +393394097243 
+186 Riccardo Pallavolo +393426727182 
+187 Susares +393467233788 
+188 Archangel +393342905113 
+189 Max nJ +393347010963 
+190 Giacomo Pasin 393 917 4698 
+191 Luca Pallavolo +393669741304 
+192 Bijin +393669369653 
+193 Giorgio NJ +393923086584 
+194 Barnaba +393423544962 
+195 Anna Mare Giovanni 3463510503 
+196 Anna Caorle Pallavolo +393317922100 
+197 Agnese +393393916264 
+198 Giorgia Toffolo +393291551663 
+199 Rebecca Caorle +393421027952 
+200 Carlotta Caorle +393661212915 
+201 Martin Caorle +393662506420 
+202 I Fioi De Beach Andrea 3489826538 
+203 Elisa Caorle Milano 3926310519 
+204 Riccardo Centrale Trento +393774556769 
+205 Veronica Caorle Pallavolo 3911429473 
+206 Lorenzo +393426300300 
+207 Marco Bellinazzi +393202145687 
+208 Milena Lojacono +393883778847 
+209 Alice Milano Caorle +39 331 249 0118 
+210 Roberto Caorle +393703340339 
+211 Arianna Meneghel +393917566725 
+212 Nicole Caorle +393348418414 
+213 Credo Si Chiami Cristian +393319603214 
+214 Giada Caorle +393497741764 
+215 Lanzi +393889554611 
+218 Francesca Filippo +393313277130 
+219 Sebastiano Caorle +393703163530 
+220 Amine +393802108747 
+221 Cattarin Marco +39 345 112 0705 
+222 Cecconi Damiano +393246238390 
+223 Riccardo Cerello +393276808084 
+224 Nicola Kosmos +393400937825 
+225 Davide Kosmos +393931092000 
+226 J Kosmos +393470548727 
+227 Libero Kosmos +393479078375 
+228 Tizio Nuovo Kosmos +393319058167 
+229 Agnese Amica Sara +393891286272 
+230 Simone Quinto 02 +393423055622 
+231 Leonardo Quinto 02 +393297680485 
+232 Mattia Salamone +393338497828 
+233 Federico Alberti +393332996416 
+234 Giuriati Daniel +393483362015 
+235 Mazzara Riccardo +393408498098 
+236 Tempesta Luca +393270232672 
+237 Stefania Kosmos +393246238381 
+238 Matteo Kosmos +393420528420 
+239 Piero Cugino +393423892595 
+240 Mario Zio +393408824592 
+241 Daniele Cugino +393470035126 
+242 Leonardo Cugino +393249061424 
+243 Edoardo Kosmos +393467121149 
+244 Rizzetto +393462485498 
+245 Rachele Grandin +393206857692 
+246 Eleonora Chiara +393485790709 
+247 Sara 3897620155 
+248 Nicola Dalla Bella +393473775112 
+249 Silvia Rossi +393466060989 
+250 Tizio +393468000987 
+251 Ziliotto +393385461951 
+252 Emma Fuser +393474560855 
+253 Alessandro Cugino Dege +393426339651 
+254 James Reginato 3476994172 
+255 Seconda Allenatrice +393491085384 
+256 Marco Banda Debenetti +393426695354 
+257 Marco Peruzza Palleggiatore +393295764990 
+258 Leonardo Duranti +393911360516 
+259 Prof Pallavolo +393397392628 
+260 Cattarin Marco Giusto +393488744187 
+261 Giacomo Kosmos +393272346444 
+262 Securcube +393455744134 
+263 Luigi Cecconi Presidente +393662730968 
+264 Sam I Fioi De Beach +393482593893 
+265 Boma I Fioi De Beach +393485631571 
+266 Nawel +393203825661 
+267 Tizio Caorle 342 004 0983 
+268 Giacomo I Fioi De Beach +393494510381 
+269 Marco JBA Caorle +393497683251 
+270 Sara Universita Chiara +393473287652 
+271 Veronica Università Chiara +393926902566 
+272 Marangon Kosmos +393661711235 
+273 Zamattia +393272382166 
+274 Stefano Allenatore Kosmos +393886048677 
+275 Giada Zago 1g Tec +393317193191 
+276 Scandiuzzi Giacomo +393314138659 
+277 Giacomo Caorle 2 +393406832810 
+278 Alberto JBA 3342730421 
+279 Michael JBA 3463391167 
+280 Riccardo Toscana CAORLE 3318687111 
+281 Luca Tizio +393400076318 
+282 Clotilde Barnaba +393458510752 
+283 Davide Riccardo +393707093992 
+284 Stefano Caorle +393409558116 
+285 Cristian Torneo 3491817439 
+286 Roberto Caorle Giusto +393924591096 
+287 Licia CAORLE +393452233412 
+288 Nicolò TOFFOLO! +39 324 745 0842 
+289 Chiara Mare +393498695595 
+290 Marco Caorle +393342963307 
+291 Riccardo Chiara +393409906317 
+292 Mattia Benatelli +393475858633 
+293 Presidente Olympo +393356500847 
+294 Prof Guido Andolfato +393297372986 
+295 Chiara Melara +393492402162 
+296 Matteo CivicHack +393467538190 
+297 Jessica Favero +393477477990 
+298 Favretto Enrico +393405421854 
+299 Stefania +393206044613 
+300 Centrale KOSMOS UNDER16 +393473551877 
+301 Cecconi fratello Damiano +393891694220 
+302 Ion 4^ +393284104488 
+303 Matteo Tonolo +393426325337 
+304 Marco Cadorin (Papà Ripetizioni Informatica) +393487454187 
+305 Andrea Lattanzio LEZIONI INFORMATICA +393393088617 
+306 Mattia Asl +393474307264 
+307 Damiano Villorba +393284368427 
+308 Mauro Carrer +393388247314 
+309 Nicola Ing. Chemello +393480649302 
+310 Raffaele (Nicolò Caorle) +393487313695 
+311 Alvise Caorle +393318351605 
+312 Amica andrea +393394811058 
+313 Arianna Salvini 🥥 3496282168 
+314 Ludovica Caorle +393713255303 
+315 Enrico JBA 3494246485 
+316 Cristian JBA +393342623131 
+317 Valda I Fioi De Beach +393495301477 
+318 Giacomo Pasin Alto 3939173698 
+319 Andrea Cannone +393467517056 
+320 0aa2320d +393389607091 
+321 CARABINIERE 3487901568 
+322 Davide Cugino +393890258479 
+323 Mamma ANDREA KOSMOS +393494183210 
+324 Filippo Ripetizioni 3313354190 
+325 Jenny Amadio +393490540165 
+326 Stefano Scudeler ALLENATORE CSI +393477157113 
+327 Mirco Faganello ALLENATORE VILLORBA +393485947600 
+328 Andrea Guerra +393407432962 
+329 Marco Merotto +393463384967 
+330 Davide Biscaro +393481198956 
+331 💩 3711473457 
+332 🐱🚤👺 3484061364 
+333 Elena PAVI +39 334 236 4778 
+334 Alessia Gallina +393315382600 
+335 Giacomo Tadiotto +393801879353 
+336 Piff Beach Volley Padova +393482772272 
+337 Emilio Beach Volley Padova +393334044416 
+338 Marco Beach Volley Mestre +393454553158 
+339 Nonno 353 306 3987 
+340 Simone Chinellato ALLENATORE BEACH MESTRE +393342822011 
+341 Valter Real Beach 3496501614 
+342 Leonardo Real Beach +393465969484 
+343 Andrea Real Beach Padova +393474459727 
+344 Vale Beach Mestre +393341729504 
+345 Caterina Baradel +393925088366 
+346 Franz Beach Volley +393312070200 
+634 Politecnico Milano 3371457965 
+636 Filippo Dall'armi +393488556591 
+639 Riccardo Cannella +393737579539 
+641 Elena Pavanetto +393515630699 
+645 Gioia Cavallin 3476579638 
+649 Roberto Cristofoli 3474550020 
+653 Kappa +393405403008 
+655 Valda I Fioi De Beach +393405403008 
+715 Alessandro Pallavolo +393405403008 
+725 Alessandro Vendramin +393420473048 
+727 Davide Scuttari +393272930657 
+729 Ale Cacco +393490970908 
+733 Loris (Nicolas) Fusaro +393490970908 
+735 Linda beach Mestre 3926928558 
+1342 Nicolas Fusaro +39 340 285 4305 
+1347 Ceron +393456018902 
+1348 Bohhhhh +39 347 798 6161 
