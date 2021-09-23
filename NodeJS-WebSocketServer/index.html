@@ -21,41 +21,38 @@ By Tosatto Simone
       <hr />
     </div>
 
-    <div class="w3-half w3-black w3-container w3-center">
+    <div class="w3-black w3-container w3-center">
       <div class="w3-padding-8">
         <h1>Commands:</h1>
       </div>
-      <div class="w3-padding-32">
-        <button class="w3-button w3-black w3-block w3-hover-blue-grey w3-padding-32" id="btnStatus">
+      <div class="w3-padding-8">
+        <button class="w3-button w3-black w3-block w3-hover-blue-grey w3-padding-64" id="btnStatus">
           Status
         </button>
-        <button class="w3-button w3-black w3-block w3-hover-teal w3-padding-32" id="btnContacts">
+        <button class="w3-button w3-black w3-block w3-hover-teal w3-padding-64" id="btnContacts">
           Contacts
         </button>
-        <button class="w3-button w3-black w3-block w3-hover-dark-grey w3-padding-32" id="btnCallLogs">
+        <button class="w3-button w3-black w3-block w3-hover-dark-grey w3-padding-64" id="btnCallLogs">
           Call Logs
         </button>
-        <button class="w3-button w3-black w3-block w3-hover-brown w3-padding-32" id="btnMessages">
+        <button class="w3-button w3-black w3-block w3-hover-brown w3-padding-64" id="btnMessages">
           Messages
         </button>
       </div>
     </div>
 
+    <!--
     <div class="w3-half w3-blue-grey w3-container terminal-body">
       <div class="w3-padding-8 w3-center">
-        <h1>Data:</h1>
+        <h1>Infected Bots:</h1>
         <div class="w3-left-align w3-padding-large">
-          <p>
-            Lorem ipusm sed vitae justo condimentum, porta lectus vitae,
-            ultricies congue gravida diam non fringilla.
-          </p>
-          <p>
-            Lorem ipusm sed vitae justo condimentum, porta lectus vitae,
-            ultricies congue gravida diam non fringilla.
-          </p>
+          <textarea id="requestReceivedData" rows="20" cols="95">
+            please, connect a bot to the CNC server
+          </textarea>
         </div>
       </div>
-    </div>
+    </div> 
+    !-->
   </div>
   <script>
     document.getElementById("btnStatus").addEventListener("click", reqStatus);

