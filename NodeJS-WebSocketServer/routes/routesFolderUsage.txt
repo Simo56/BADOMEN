@@ -1,0 +1,1 @@
+this folder is used to create separate routes and keep the project structure more organized
