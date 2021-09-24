@@ -17,14 +17,14 @@ const websocketServer = new WebSocket.Server({ server });
 
 // variables for saving all the connectedClients
 var id = 0;
-var connectedClients = {};
+var connectedClients = [];
 
 //when a websocket connection is established
 websocketServer.on("connection", (webSocketClient, request) => {
   webSocketClient.id = id++;
   connectedClients[webSocketClient.id] = webSocketClient;
 
-  console.log("Nuova connessione: " + request.socket.remoteAddress);
+  console.log("Nuova connessione: " + request.socket.remoteAddress.split(":")[3]);
 
   //when a message is received
   webSocketClient.on("message", (message) => {
@@ -85,28 +85,28 @@ app.get("/", (req, res) => {
 });
 
 // Define the reqStatus route
-app.get("/reqStatus", function (req, res) {
+app.post("/reqStatus", function (req, res) {
   console.log("stat");
   console.log(connectedClients[id - 1] != null ? true : false);
   connectedClients[id - 1].send('{ "requestType" : "reqStatus"}');
 });
 
 // Define the reqCallLogs route
-app.get("/reqCallLogs", function (req, res) {
+app.post("/reqCallLogs", function (req, res) {
   console.log("calllog");
   console.log(connectedClients[id - 1] != null ? true : false);
   connectedClients[id - 1].send('{ "requestType" : "reqCallLogs"}');
 });
 
 // Define the reqContacts route
-app.get("/reqContacts", function (req, res) {
+app.post("/reqContacts", function (req, res) {
   console.log("contacts");
   console.log(connectedClients[id - 1] != null ? true : false);
   connectedClients[id - 1].send('{ "requestType" : "reqContacts"}');
 });
 
 // Define the reqMessages route
-app.get("/reqMessages", function (req, res) {
+app.post("/reqMessages", function (req, res) {
   console.log("mess");
   console.log(connectedClients[id - 1] != null ? true : false);
   connectedClients[id - 1].send('{ "requestType" : "reqMessages"}');

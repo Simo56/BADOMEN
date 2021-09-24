@@ -76,7 +76,7 @@ public class SocketInstance extends MainActivity{
 
 
         private String reqStatus() {
-            return "Everything is fine!";
+            return context != null ? "Everything is fine!" : "Status Error!" ;
         }
 
         private String reqCallLogs() throws JSONException {

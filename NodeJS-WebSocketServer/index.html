@@ -40,19 +40,6 @@ By Tosatto Simone
         </button>
       </div>
     </div>
-
-    <!--
-    <div class="w3-half w3-blue-grey w3-container terminal-body">
-      <div class="w3-padding-8 w3-center">
-        <h1>Infected Bots:</h1>
-        <div class="w3-left-align w3-padding-large">
-          <textarea id="requestReceivedData" rows="20" cols="95">
-            please, connect a bot to the CNC server
-          </textarea>
-        </div>
-      </div>
-    </div> 
-    !-->
   </div>
   <script>
     document.getElementById("btnStatus").addEventListener("click", reqStatus);
@@ -76,7 +63,7 @@ By Tosatto Simone
     function ajaxReq(route) {
       var xmlhttp = new XMLHttpRequest();
 
-      xmlhttp.open("GET", "http://localhost:8080/" + route, true);
+      xmlhttp.open("POST", "http://localhost:8080/" + route, true);
       xmlhttp.onreadystatechange = function () {
         if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
           string = xmlhttp.responseText;
