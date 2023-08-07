@@ -66,4 +66,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Note**: This project is intended to raise awareness about cybersecurity and the importance of protecting devices from unauthorized access. It should not be used for any malicious purposes.
 
-For questions or inquiries, please contact [Your Name](tosatto.simonepio@gmail.com).
+For questions or inquiries, please contact [Simone Pio Tosatto](tosatto.simonepio@gmail.com).
